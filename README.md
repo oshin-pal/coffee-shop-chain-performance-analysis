@@ -1,6 +1,6 @@
 # Coffee Shop Chain Performance Analysis
 
-This project analyzes the performance metrics of a coffee shop chain to help understand trends, optimize business strategies, and make data-driven decisions. 📊☕
+This project analyzes the performance metrics of a coffee shop (by using advanced excel) chain to help understand trends, optimize business strategies, and make data-driven decisions. 📊☕
 
 The project includes a clean, insightful dashboard based on key performance indicators (KPIs) derived from business data.
 
