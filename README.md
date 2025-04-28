@@ -41,6 +41,6 @@ coffee-shop-chain-performance-analysis/
 Contributions are welcome!  
 If you have suggestions for improvements, feel free to open an issue or submit a pull request.
 
-## 🙋‍♂️ About
+## 🙋‍♀️ About Me
 
 Hii, I am Oshin! Created with 💙 to demonstrate business intelligence and dashboarding skills.
