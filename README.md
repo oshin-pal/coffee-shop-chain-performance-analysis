@@ -7,9 +7,9 @@ The project includes a clean, insightful dashboard based on key performance indi
 ## 📂 Project Structure
 ```
 coffee-shop-chain-performance-analysis/
-|-- Coffee_Shop_Chain_Performance_Analysis.xlsx           # Dataset used for analysis (149,000+ data points)
-|-- Dashboard_Screenshot.png           # Screenshot of the final dashboard
-|-- README.md           # Project documentation
+|-- Coffee_Shop_Chain_Performance_Analysis.xlsx     # Dataset used for analysis (149,000+ data points)
+|-- Dashboard_Screenshot.png                        # Screenshot of the final dashboard
+|-- README.md                                       # Project documentation
 ```
 
 ## 📈 Key Features
