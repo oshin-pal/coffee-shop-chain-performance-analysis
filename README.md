@@ -23,7 +23,7 @@ coffee-shop-chain-performance-analysis/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/coffee-shop-chain-performance-analysis.git
+   git clone https://github.com/oshin-pal/coffee-shop-chain-performance-analysis.git
    ```
 2. Open the Excel file:
    - `Coffee_Shop_Chain_Performance_Analysis.xlsx`
