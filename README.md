@@ -5,12 +5,14 @@ This project analyzes the performance metrics of a coffee shop chain to help und
 The project includes a clean, insightful dashboard based on key performance indicators (KPIs) derived from business data.
 
 ## 📂 Project Structure
+```
+/
+Coffee_Shop_Chain_Performance_Analysis.xlsx           # Dataset used for analysis (149,000+ data points)
+Dashboard_Screenshot.png           # Screenshot of the final dashboard
+README.md           # Project documentation
+```
 
-- `Coffee_Shop_Chain_Performance_Analysis.xlsx` — Dataset used for analysis.
-- `Dashboard_Screenshot.png` — Screenshot of the final dashboard.
-- `README.md` — Project documentation.
-
-## 📈 Features
+## 📈 Key Features
 
 - Comprehensive sales and performance analysis.
 - Visual dashboard summarizing key metrics.
